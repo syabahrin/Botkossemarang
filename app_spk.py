@@ -174,7 +174,7 @@ async def pilih_kampus_dan_hitung(update: Update, context: ContextTypes.DEFAULT_
 # ==========================================
 def main():
     # MASUKKAN TOKEN BOT TELEGRAM ANDA DI SINI
-    TOKEN_BOT = "8958618959:AAGG7fqsVZSdIc_AWbca1IHxHYbwRfGjpRo"
+    TOKEN_BOT = ""
     
     application = Application.builder().token(TOKEN_BOT).build()
 
